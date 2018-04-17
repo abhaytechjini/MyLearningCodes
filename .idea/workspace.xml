@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc99406f-446a-42ff-891c-91657d3e929a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/JavaLearning/BaseClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JavaLearning/NewClass.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/JavaLearning/MainClass.java" afterPath="$PROJECT_DIR$/JavaLearning/MainClass.java" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/JavaLearning/MainClass.class" afterPath="$PROJECT_DIR$/out/production/JavaLearning/JavaLearning/MainClass.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />

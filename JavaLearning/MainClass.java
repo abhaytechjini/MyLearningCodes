@@ -2,14 +2,12 @@ package JavaLearning;
 
 public class MainClass {
 
-    public static void main(String[] args) throws Exception
-    {
-      int x = 1;
+    public static void main(String[] args) {
 
-      while (x <= 5)
-      {
-          System.out.println("The value of elements are as follows" + x);
-          x ++;
-      }
+        BaseClass baseClass = new BaseClass();
+        baseClass.simpleInterest();
+
+        NewClass newClass = new NewClass();
+        newClass.area();
     }
 }

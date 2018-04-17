@@ -1,12 +1,15 @@
 package JavaLearning;
 
-import java.net.InetAddress;
-
 public class MainClass {
 
     public static void main(String[] args) throws Exception
     {
-        InetAddress inetAddress = InetAddress.getLocalHost();
-        System.out.println("The IP address is " + inetAddress.getHostAddress());
+      int x = 1;
+
+      while (x <= 5)
+      {
+          System.out.println("The value of elements are as follows" + x);
+          x ++;
+      }
     }
 }
